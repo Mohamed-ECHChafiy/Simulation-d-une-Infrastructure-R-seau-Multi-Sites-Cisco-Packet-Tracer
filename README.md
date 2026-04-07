@@ -7,8 +7,6 @@ Ce dépôt contient la configuration détaillée d'une infrastructure réseau lo
 
 ## 🛠️ Détails Techniques de la Configuration
 
-Le fichier `LAN CENTRAL.pdf` contient l'intégralité des configurations appliquées aux équipements (Switches et MLS). Voici les points clés :
-
 ### 1. Segmentation et Gestion du Trafic
 * **VLANs Déployés :** Organisation rigoureuse du trafic (VLAN Admin, RH, Serveurs, Voix IP).
 * **VLAN Natif :** Utilisation du VLAN 90 pour la sécurité des liens Trunk.
