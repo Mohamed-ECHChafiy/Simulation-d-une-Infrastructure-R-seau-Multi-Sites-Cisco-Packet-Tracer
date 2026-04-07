@@ -1,14 +1,14 @@
 # Simulation d'une Infrastructure Réseau Multi Sites Cisco Packet Tracer
 ### Projet de simulation d'un réseau d'entreprise multi-sites interconnectant trois LANs (Casablanca, Rabat, Agadir) avec un LAN Central, implémentant des protocoles avancés de routage, sécurité, VoIP, et services réseau.
 
-# Configuration d'Infrastructure LAN Centralisée (Cisco)
+# Configuration d'Infrastructure WAN (Cisco)
 
 Ce dépôt contient la configuration détaillée d'une infrastructure réseau locale centralisée. Le projet met en œuvre des solutions avancées de commutation et de sécurité pour garantir la performance et la protection des données au sein d'une entreprise.
 
 ## 🛠️ Détails Techniques de la Configuration
 
 ### 1. Segmentation et Gestion du Trafic
-* **VLANs Déployés :** Organisation rigoureuse du trafic (VLAN Admin, RH, Serveurs, Voix IP).
+* **VLANs Déployés :** Organisation rigoureuse du trafic (VLAN Admin, RH, DEV, IT, Voix IP).
 * **VLAN Natif :** Utilisation du VLAN 90 pour la sécurité des liens Trunk.
 * **VLAN Voix :** Optimisation du trafic pour la téléphonie IP sur les ports d'accès.
 
@@ -21,7 +21,7 @@ Ce dépôt contient la configuration détaillée d'une infrastructure réseau lo
 
 ### 3. Haute Disponibilité et Services
 * **EtherChannel :** Agrégation de liens (LACP/PAgP) entre les switches pour augmenter la bande passante et assurer la redondance.
-* **Services Réseau :** Configuration des accès pour serveurs WEB (Casablanca), DNS et FTP.
+* **Services Réseau :** Configuration des accès pour serveurs WEB, MAIL, DNS et FTP.
 * **Administration Sécurisée :** Création d'utilisateurs avec privilèges et chiffrement des mots de passe.
 
 ## 📸 Topologie du Projet
