@@ -12,12 +12,14 @@ Ce dépôt contient la configuration détaillée d'une infrastructure réseau lo
 * **VLAN Natif :** Utilisation du VLAN 90 pour la sécurité des liens Trunk.
 * **VLAN Voix :** Optimisation du trafic pour la téléphonie IP sur les ports d'accès.
 
-### 2. Sécurité de Couche 2 (Layer 2 Security)
+### 2. Sécurité
 * **Port-Security :** * Limitation du nombre d'adresses MAC par port (Maximum 3).
     * Utilisation de l'apprentissage dynamique avec `Sticky MAC`.
     * Mode de violation `Restrict` pour bloquer les accès non autorisés sans arrêter le port.
 * **Spanning-Tree (PVST+) :** * Activation de `PortFast` pour une connectivité immédiate des terminaux.
     * Activation de `BPDU Guard` pour protéger le réseau contre les boucles accidentelles sur les ports d'accès.
+* **ACLs :** *
+
 
 ### 3. Haute Disponibilité et Services
 * **EtherChannel :** Agrégation de liens (LACP/PAgP) entre les switches pour augmenter la bande passante et assurer la redondance.
