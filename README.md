@@ -13,12 +13,28 @@ Ce dépôt contient la configuration détaillée d'une infrastructure réseau lo
 * **VLAN Voix :** Optimisation du trafic pour la téléphonie IP sur les ports d'accès.
 
 ### 2. Sécurité
-* **Port-Security :** * Limitation du nombre d'adresses MAC par port (Maximum 3).
+* #### **Port-Security :** * Limitation du nombre d'adresses MAC par port (Maximum 3).
     * Utilisation de l'apprentissage dynamique avec `Sticky MAC`.
     * Mode de violation `Restrict` pour bloquer les accès non autorisés sans arrêter le port.
-* **Spanning-Tree (PVST+) :** * Activation de `PortFast` pour une connectivité immédiate des terminaux.
+* #### **Spanning-Tree (PVST+) :** * Activation de `PortFast` pour une connectivité immédiate des terminaux.
     * Activation de `BPDU Guard` pour protéger le réseau contre les boucles accidentelles sur les ports d'accès.
-* **ACLs :** *
+* #### **ACLs :** 
+ *  Accès SSH Restreint (Management) :  L'accès aux équipements via SSH est strictement limité aux adresses IP autorisées.
+    *  Admin Central : L'administrateur situé dans le segment central (IP: 4.0.0.5) dispose d'un accès global à tous les équipements du réseau WAN.
+    *  Admin Locaul : Chaque administrateur réseau local (LAN) est autorisé à accéder uniquement aux équipements de son propre site (ex: Rabat/Agadir/Casablanca).
+      
+*   Contrôle d'Accès Web HTTP
+    * Accès Inter-LAN (Local) : Chaque réseau local (LAN) est autorisé à accéder exclusivement au serveur Web qui lui est rattaché, garantissant une segmentation optimale des ressources.
+    * Privilèges Admin Central : L'administrateur central (Admin Central) bénéficie d'un accès illimité, lui permettant de consulter et de gérer tous les serveurs Web sur l'ensemble des sites (Rabat,             Agadir, Casablanca).
+    * Sécurisation du Flux : Utilisation d'ACL étendues pour autoriser uniquement le trafic sur le ports 80 (HTTP) , tout en bloquant toute autre tentative de connexion non autorisée.
+      
+* Sécurisation du Service FTP
+    * Accès Privilégié (Admins Uniquement) : Seuls les terminaux identifiés comme "Admin" (Admin Central et Admins LAN) sont autorisés à établir une connexion avec le serveur FTP.
+ 
+* Restriction du Protocole ICMP (Ping)
+    * Isolation des VLANs : Le trafic "Ping" (Echo Request) est totalement interdit entre les différents VLANs au sein de chaque site local pour empêcher les utilisateurs non autorisés de tester la               connectivité des autres segments.
+    * Admin Central : Autorisé à effectuer des tests de connectivité (Ping) vers n'importe quel équipement ou hôte sur l'ensemble du réseau WAN/LAN.
+    * Admin Local : Autorisé à utiliser le Ping uniquement pour diagnostiquer les équipements au sein de son propre site (LAN).
 
 
 ### 3. Haute Disponibilité et Services
