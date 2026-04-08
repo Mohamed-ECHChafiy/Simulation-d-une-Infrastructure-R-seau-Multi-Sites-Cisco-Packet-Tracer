@@ -50,9 +50,23 @@ Ce dépôt contient la configuration détaillée d'une infrastructure réseau lo
 
 <img width="780" height="621" alt="central2" src="https://github.com/user-attachments/assets/de4e0713-8748-49fc-9871-6342889cb0ea" />
 
+#### Test WEB
+
+<img width="798" height="692" alt="central10" src="https://github.com/user-attachments/assets/c887edb4-d1b8-42ea-8c42-dea389c358cc" />
+<img width="805" height="688" alt="central11" src="https://github.com/user-attachments/assets/ad962949-7099-45c1-9e36-ef48d565da5b" />
+<img width="799" height="689" alt="central13" src="https://github.com/user-attachments/assets/14d60194-8da4-46aa-a856-567bdf18b733" />
+
+ 
 ### Lan Rabat
  
 <img width="1089" height="1015" alt="rabat" src="https://github.com/user-attachments/assets/04ccc2bb-fb89-4f0f-abab-c4320b3caac0" />
+
+#### Test WEB
+
+<img width="803" height="653" alt="rabat10" src="https://github.com/user-attachments/assets/5c29838f-0311-4a5a-b46e-35f83820839d" />
+<img width="801" height="173" alt="rabat12" src="https://github.com/user-attachments/assets/c1b86231-e950-4544-a93e-2a916dd8cf15" />
+<img width="802" height="196" alt="rabat13" src="https://github.com/user-attachments/assets/0418dcdc-1ce0-4433-9fa0-6a225265c7f2" />
+
 
 ### Lan Agadir 
 
