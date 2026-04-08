@@ -48,6 +48,20 @@ Ce dépôt contient la configuration détaillée d'une infrastructure réseau lo
 
 ### Lan Central
 
+<img width="780" height="621" alt="central2" src="https://github.com/user-attachments/assets/de4e0713-8748-49fc-9871-6342889cb0ea" />
+
+### lan Rabat
+ 
+<img width="1089" height="1015" alt="rabat" src="https://github.com/user-attachments/assets/04ccc2bb-fb89-4f0f-abab-c4320b3caac0" />
+
+### Lan Agadir 
+
+<img width="1099" height="1148" alt="agadir" src="https://github.com/user-attachments/assets/a32b0eba-332e-41ad-b4d8-f78f85cf13bb" />
+
+### Lan Casablanca
+
+<img width="932" height="1367" alt="casa" src="https://github.com/user-attachments/assets/3551242d-794c-4ef9-b2d3-5df77b74aa12" />
+
 
 
 
