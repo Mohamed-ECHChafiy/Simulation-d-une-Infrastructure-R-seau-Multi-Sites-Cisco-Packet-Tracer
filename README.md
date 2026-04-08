@@ -1,4 +1,4 @@
-# Simulation d'une Infrastructure Réseau Multi Sites Cisco Packet Tracer
+# Simulation d'une Infrastructure Réseau Multi Sites Packet Tracer
 ### Projet de simulation d'un réseau d'entreprise multi-sites interconnectant trois LANs (Casablanca, Rabat, Agadir) avec un LAN Central, implémentant des protocoles avancés de routage, sécurité, VoIP, et services réseau.
 
 # Configuration d'Infrastructure WAN (Cisco)
