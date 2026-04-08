@@ -39,7 +39,7 @@ Ce dépôt contient la configuration détaillée d'une infrastructure réseau lo
 
 ### 3. Haute Disponibilité et Services
 * **EtherChannel :** Agrégation de liens (LACP/PAgP) entre les switches pour augmenter la bande passante et assurer la redondance.
-* **Services Réseau :** Configuration des accès pour serveurs WEB, MAIL, DNS et FTP.
+* **Services Réseau :** Configuration des accès pour serveurs WEB, MAIL, DNS et TFTP/FTP.
 * **Administration Sécurisée :** Création d'utilisateurs avec privilèges et chiffrement des mots de passe.
 
 ## 📸 Topologie du Projet
