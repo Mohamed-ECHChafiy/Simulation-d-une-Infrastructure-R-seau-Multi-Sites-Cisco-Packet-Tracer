@@ -50,7 +50,7 @@ Ce dépôt contient la configuration détaillée d'une infrastructure réseau lo
 
 <img width="780" height="621" alt="central2" src="https://github.com/user-attachments/assets/de4e0713-8748-49fc-9871-6342889cb0ea" />
 
-### lan Rabat
+### Lan Rabat
  
 <img width="1089" height="1015" alt="rabat" src="https://github.com/user-attachments/assets/04ccc2bb-fb89-4f0f-abab-c4320b3caac0" />
 
