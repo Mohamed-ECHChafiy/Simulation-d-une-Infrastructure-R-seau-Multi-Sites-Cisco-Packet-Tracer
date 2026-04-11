@@ -21,7 +21,8 @@ Ce projet simule une infrastructure réseau d'entreprise distribuée sur **4 sit
 
 Les sites sont interconnectés via des **liaisons série WAN (PPP/CHAP)** :
 
-<img width="3429" height="2550" alt="trtr" src="https://github.com/user-attachments/assets/ec673d04-55ed-4acc-a56e-e8f3461cb9bd" />
+<img width="500" height="2550" alt="trtr" src="https://github.com/user-attachments/assets/801dd8b8-9ea7-4c15-ab9f-58318de338fd" />
+
 
 ## 🏗️ Architecture par Site
 
