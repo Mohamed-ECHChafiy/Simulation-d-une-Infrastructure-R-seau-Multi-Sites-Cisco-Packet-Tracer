@@ -100,7 +100,6 @@ Les sites sont interconnectés via des **liaisons série WAN (PPP/CHAP)** :
 | **ACL BLK** | Filtrage HTTP/FTP/ICMP par site |
 | **Port-Security** | Sticky MAC + violation restrict sur tous les ports access |
 | **BPDUGuard** | Activé sur ports PortFast |
-| **NetFlow** | Export v9 vers collecteur par site |
 
 ### VoIP
 | Paramètre | Valeur |
