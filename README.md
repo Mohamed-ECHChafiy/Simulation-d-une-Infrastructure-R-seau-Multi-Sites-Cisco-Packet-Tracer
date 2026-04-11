@@ -174,9 +174,8 @@ Les sites sont interconnectés via des **liaisons série WAN (PPP/CHAP)** :
 #### Politique HTTP par site
 - LAN Rabat → Serveur WEB Central (`4.0.0.251`)
   
-  <img width="803" height="653" alt="rabat10" src="https://github.com/user-attachments/assets/e34b7c06-34f0-4757-b0b3-846bc3a430bf" />
-  <img width="801" height="173" alt="rabat12" src="https://github.com/user-attachments/assets/3a76b404-6761-4937-8851-8bd95e379535" />
-  <img width="802" height="196" alt="rabat13" src="https://github.com/user-attachments/assets/9d68528e-2e55-47e8-b525-a4de49d1aa8e" />
+<img width="500" height="653" alt="rabat10" src="https://github.com/user-attachments/assets/2963215d-ca62-4ece-88d6-3a7c13beab36" />
+
 
 - LAN Agadir → Serveur WEB Central (`4.0.0.252`)  
 - LAN Casa → Serveur WEB Central (`4.0.0.250`)
