@@ -106,9 +106,9 @@ Les sites sont interconnectés via des **liaisons série WAN (PPP/CHAP)** :
 | Paramètre | Valeur |
 |-----------|--------|
 | **Protocole** | SCCP (Cisco IP Phones 7960) |
-| **Numérotation** | Central: 9xx, Rabat: 100, Agadir: 200, Casa: 300 |
+| **Numérotation** | Central: 900, Rabat: 100, Agadir: 200, Casa: 300 |
 | **DHCP Option 150** | TFTP server pour phones |
-| **Dial-peers VoIP** | Inter-sites via adresses Serial |
+| **Dial-peers VoIP** | Les téléphone administratifs sont connectés entre eux réseau wan |
 
 ---
 
@@ -178,8 +178,10 @@ Les sites sont interconnectés via des **liaisons série WAN (PPP/CHAP)** :
 <img width="500" height="170" alt="rabat13" src="https://github.com/user-attachments/assets/8e718a7f-be63-47ac-98c0-9ec0ece5344d" />
 <img width="500" height="173" alt="rabat12" src="https://github.com/user-attachments/assets/cd7a3cc9-c580-4211-bdd0-4909164a645a" />
 
-
 - LAN Agadir → Serveur WEB Central (`4.0.0.250`)
+
+
+
 
 - LAN Casa → Serveur WEB Central (`4.0.0.252`)
 - Tout autre HTTP → **DENY**
