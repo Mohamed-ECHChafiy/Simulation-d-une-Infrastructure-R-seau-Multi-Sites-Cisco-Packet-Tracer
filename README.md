@@ -116,11 +116,11 @@ Les sites sont interconnectés via des **liaisons série WAN (PPP/CHAP)** :
 ### Réseaux WAN (Liaisons Série)
 | Liaison | Réseau | Interface |
 |---------|--------|-----------|
-| Central ↔ WAN | `3.2.1.0/30` | Serial R-CENTRAL: `3.2.1.2` / IPS: `3.2.1.1` |
+| Central ↔ WAN | `3.2.1.0/30` | Serial R-CENTRAL: `3.2.1.2` / WAN: `3.2.1.1` |
 | Rabat ↔ Casa | `10.0.0.0/30` | R-RABAT: `10.0.0.2` / R-CASA: `10.0.0.1` |
 | Rabat ↔ Agadir | `10.0.0.4/30` | R-RABAT: `10.0.0.5` / R-AGADIR: `10.0.0.6` |
 | Casa ↔ Agadir | `10.0.0.8/30` | R-CASA: `10.0.0.9` / R-AGADIR: `10.0.0.10` |
-| Casa ↔ Internet | `212.12.13.0/30` | R-CASA: `212.12.13.2` / IPS `212.12.13.1` |
+| Casa ↔ Internet | `212.12.13.0/30` | R-CASA: `212.12.13.2` / WAN `212.12.13.1` |
 | Casa ↔ MLS | `20.0.0.0/29` | R-CASA: `20.0.0.1` / MLS: `20.0.0.2` |
 
 ### Réseaux LAN par Site
