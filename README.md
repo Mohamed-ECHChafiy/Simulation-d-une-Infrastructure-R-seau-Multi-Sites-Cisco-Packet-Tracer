@@ -173,38 +173,33 @@ Les sites sont interconnectés via des **liaisons série WAN (PPP/CHAP)** :
 
 #### Politique HTTP par site
 - LAN Rabat → Serveur WEB Central (`4.0.0.251`)
-  
 <img width="500" height="653" alt="rabat10" src="https://github.com/user-attachments/assets/ddb80785-7c7a-40ad-8c8d-ffdeb03ff706" />
 <img width="500" height="170" alt="rabat13" src="https://github.com/user-attachments/assets/8e718a7f-be63-47ac-98c0-9ec0ece5344d" />
 <img width="500" height="173" alt="rabat12" src="https://github.com/user-attachments/assets/cd7a3cc9-c580-4211-bdd0-4909164a645a" />
 
-- LAN Agadir → Serveur WEB Central (`4.0.0.250`)
-
-
-
+- LAN Agadir → Serveur WEB Central (`4.0.0.250`)  
+<img width="500" height="551" alt="agadir1" src="https://github.com/user-attachments/assets/debad4ca-bc53-4a70-8306-0c76192bf40b" />
+<img width="500" height="156" alt="agadir2" src="https://github.com/user-attachments/assets/285acf91-2107-4168-a5ec-4cecc105d9d5" />
+<img width="500" height="168" alt="image" src="https://github.com/user-attachments/assets/24285523-0faf-4300-8dae-44d45a09f513" />
 
 - LAN Casa → Serveur WEB Central (`4.0.0.252`)
-- Tout autre HTTP → **DENY**
+<img width="500" height="550" alt="casa1" src="https://github.com/user-attachments/assets/3f11319f-1dad-45ed-aede-8bca72f55087" />
+<img width="500" height="151" alt="casa2" src="https://github.com/user-attachments/assets/8a187bcb-f336-49ed-bb1c-a1ce80275b7b" />
+<img width="500" height="157" alt="casa4" src="https://github.com/user-attachments/assets/426c394c-eb6c-4577-8708-80e394a7007b" />
 
----
+- LAN Central → Tous les Serveur WEB Central
+<img width="500" height="692" alt="central10" src="https://github.com/user-attachments/assets/202213f2-e5a5-4dc9-bc2d-9d9f750155c0" />
+<img width="500" height="688" alt="central11" src="https://github.com/user-attachments/assets/2f8abd7e-242c-4db3-bf89-e61f9afb0e4f" />
+<img width="500" height="689" alt="central13" src="https://github.com/user-attachments/assets/4b4481d3-f2d8-464a-9572-72e7bb415d29" />
+
+- Tout autre HTTP → **DENY**
 
 ## 
 ---
 
 ## 👤 Auteur
 
-**Mohamed ECH-chafiy**  
-Étudiant en Infrastructure Digitale — Option Systèmes & Réseaux  
-OFPPT, Casablanca,Rahma, Maroc  
-
----
-
-## 📝 Notes
-
-- Simulé avec **Cisco Packet Tracer**
-- FTP credentials : `ADMIN / 12345`
-- NTP/Syslog configurés sur chaque site
-
----
-
-*Projet réalisé dans le cadre de la formation Infrastructure Digitale — OFPPT*
+**Mohamed ECH-chafiy**
+- Étudiant en Infrastructure Digitale — Option Systèmes & Réseaux  
+- OFPPT, Rahma, Casablanca, Maroc  
+- Linkedin : www.linkedin.com/in/mohamed-ech-chafiy
