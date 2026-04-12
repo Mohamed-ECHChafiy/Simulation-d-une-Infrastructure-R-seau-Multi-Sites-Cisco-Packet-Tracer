@@ -208,7 +208,7 @@ Les sites sont interconnectés via des **liaisons série WAN (PPP/CHAP)** :
 ## 
 ---
 
-## 👤 Auteur
+## 👨‍💻 Auteur
 
 **Mohamed ECH-chafiy**
 - Étudiant en Infrastructure Digitale — Option Systèmes & Réseaux  
