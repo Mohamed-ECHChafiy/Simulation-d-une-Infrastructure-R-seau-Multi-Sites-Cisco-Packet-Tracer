@@ -212,5 +212,5 @@ Les sites sont interconnectés via des **liaisons série WAN (PPP/CHAP)** :
 
 **Mohamed ECH-chafiy**
 - Étudiant en Infrastructure Digitale — Option Systèmes & Réseaux  
-- OFPPT, Rahma, Casablanca, Maroc  
+- OFPPT, Arrahma, Casablanca, Maroc  
 - Linkedin : www.linkedin.com/in/mohamed-ech-chafiy
