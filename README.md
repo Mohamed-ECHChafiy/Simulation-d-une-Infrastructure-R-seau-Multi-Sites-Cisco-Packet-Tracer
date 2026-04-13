@@ -235,8 +235,6 @@ Les sites sont interconnectés via des **liaisons série WAN (PPP/CHAP)** :
 <img width="500" height="187" alt="image" src="https://github.com/user-attachments/assets/fdca6a8b-6f26-4ee3-8311-c654aea213d7" />
 
 #### Server DHCP (`192.168.1.254`)
- - Router
-
 
 <img width="600" height="539" alt="image" src="https://github.com/user-attachments/assets/ac882169-1e6b-46a7-a22e-f9cb030e3649" />
 
@@ -284,10 +282,12 @@ Les sites sont interconnectés via des **liaisons série WAN (PPP/CHAP)** :
 
 <img width="500" height="346" alt="image" src="https://github.com/user-attachments/assets/17e80b46-e25d-487b-9484-a4b9c61f17b9" />
 <img width="285" height="363" alt="1 aga" src="https://github.com/user-attachments/assets/5222d534-6cb6-44bc-ae23-02958008babb" />
-<img width="701" height="328" alt="ag2" src="https://github.com/user-attachments/assets/d4d752f5-9c13-4da2-84c8-cf1b9e062df9" />
-<img width="705" height="327" alt="ag3" src="https://github.com/user-attachments/assets/ced1731a-bad9-4fae-9767-9b1eb246eea9" />
+<img width="500" height="328" alt="ag2" src="https://github.com/user-attachments/assets/d4d752f5-9c13-4da2-84c8-cf1b9e062df9" />
+<img width="500" height="327" alt="ag3" src="https://github.com/user-attachments/assets/ced1731a-bad9-4fae-9767-9b1eb246eea9" />
 
+#### Server tftp (`192.168.5.254`)
 
+<img width="289" height="246" alt="image" src="https://github.com/user-attachments/assets/641df81f-7a46-45bf-9f0f-402928f984d0" />
 
 
 
