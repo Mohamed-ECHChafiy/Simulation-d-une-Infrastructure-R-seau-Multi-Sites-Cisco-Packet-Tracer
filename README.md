@@ -234,11 +234,13 @@ Les sites sont interconnectés via des **liaisons série WAN (PPP/CHAP)** :
 
 #### Server DHCP (`192.168.1.254`)
  - Router
-   
+
+
+<img width="600" height="539" alt="image" src="https://github.com/user-attachments/assets/ac882169-1e6b-46a7-a22e-f9cb030e3649" />
+
    <img width="307" height="380" alt="image" src="https://github.com/user-attachments/assets/d7c71dfc-ce3c-450c-bb9c-699958074ebd" />
    <img width="313" height="382" alt="image" src="https://github.com/user-attachments/assets/70ac5eef-7ab6-4753-8a42-3673222926e0" />
 
-<img width="600" height="539" alt="image" src="https://github.com/user-attachments/assets/ac882169-1e6b-46a7-a22e-f9cb030e3649" />
 
 #### Server Email (`192.168.1.252`)
 
@@ -250,6 +252,37 @@ Les sites sont interconnectés via des **liaisons série WAN (PPP/CHAP)** :
 #### Server tftp (`192.168.1.253`)
 
 <img width="503" height="252" alt="image" src="https://github.com/user-attachments/assets/119cdf4e-226f-47a7-b2b7-ae9b37fd5246" />
+
+
+#### HTTP 
+
+<img width="500" height="653" alt="rabat10" src="https://github.com/user-attachments/assets/65e3bd15-4162-4dfa-9592-51f7e9a3eca7" />
+<img width="500" height="196" alt="rabat13" src="https://github.com/user-attachments/assets/fd428898-e02f-4067-89d8-2656240fa747" />
+<img width="500" height="173" alt="rabat12" src="https://github.com/user-attachments/assets/6faa41bc-13e8-47cb-892a-a36209ba3b38" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## 
 ---
