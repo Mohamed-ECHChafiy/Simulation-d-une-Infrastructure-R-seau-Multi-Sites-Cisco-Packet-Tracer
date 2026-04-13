@@ -192,12 +192,22 @@ Les sites sont interconnectés via des **liaisons série WAN (PPP/CHAP)** :
 ---
 
 ## TEST
+### Lan Central
 
-### Server DNS (`4.0.0.254`)
+<img width="600" height="609" alt="lan central" src="https://github.com/user-attachments/assets/8548c67f-8a80-4402-a062-cd25ccfdbddf" />
+
+
+#### Server DNS 4.0.0.254
 
 <img width="500" height="475" alt="image" src="https://github.com/user-attachments/assets/9951550a-ef6c-4a0e-bde8-1ffcec25650c" />
 
+#### Server FTP wan / TFTP lan 
 
+- FTP
+<img width="600" height="591" alt="image" src="https://github.com/user-attachments/assets/6f46d6d2-821e-4d98-8b37-30c46726d243" />
+
+- TFTP
+<img width="581" height="217" alt="image" src="https://github.com/user-attachments/assets/98e6a001-c8fb-43da-aa4a-9eced8ad61d2" />
 
 
 
