@@ -205,7 +205,7 @@ Les sites sont interconnectés via des **liaisons série WAN (PPP/CHAP)** :
 
 <img width="500" height="475" alt="image" src="https://github.com/user-attachments/assets/9951550a-ef6c-4a0e-bde8-1ffcec25650c" />
 
-#### Server FTP wan / TFTP lan 
+#### Server FTP wan / TFTP lan (`4.0.0.253`)
 
 - FTP
 <img width="600" height="591" alt="image" src="https://github.com/user-attachments/assets/6f46d6d2-821e-4d98-8b37-30c46726d243" />
@@ -271,7 +271,7 @@ Les sites sont interconnectés via des **liaisons série WAN (PPP/CHAP)** :
 <img width="310" height="284" alt="image" src="https://github.com/user-attachments/assets/7e7475e3-a4dd-47ea-b9e6-221c94a5ee76" />
 <img width="500" height="214" alt="image" src="https://github.com/user-attachments/assets/d2e5df3e-e972-4f64-9a89-80d3fcc24cc7" />
 
-#### DHCP 
+#### DHCP (router)
 
 <img width="293" height="423" alt="image" src="https://github.com/user-attachments/assets/c760682d-0226-470c-8b73-b5e9db71766d" />
 <img width="500" height="246" alt="image" src="https://github.com/user-attachments/assets/978d9b5e-0a94-4034-890a-160d7c9b187a" />
@@ -289,11 +289,37 @@ Les sites sont interconnectés via des **liaisons série WAN (PPP/CHAP)** :
 
 <img width="289" height="246" alt="image" src="https://github.com/user-attachments/assets/641df81f-7a46-45bf-9f0f-402928f984d0" />
 
+---
+
+### Lan Casablanca
+
+<img width="600" height="1233" alt="casa" src="https://github.com/user-attachments/assets/03dd2372-249c-4422-aeda-772495ce109c" />
 
 
+#### PC & IP Phone (admin)
 
 
+<img width="373" height="284" alt="image" src="https://github.com/user-attachments/assets/bdc8cb6f-7df6-4b9e-a864-a4932b6e42cf" />
+<img width="588" height="207" alt="image" src="https://github.com/user-attachments/assets/545de712-9693-4c3d-bb26-1d50ab548191" />
 
+
+#### DHCP (mls)
+
+<img width="300" height="425" alt="image" src="https://github.com/user-attachments/assets/f4b5f483-8ab9-4a47-a1b1-7b33b9b64356" />
+<img width="500" height="248" alt="image" src="https://github.com/user-attachments/assets/67c7fc3b-aa76-469c-b91c-8dbb4bf2614d" />
+
+
+#### Server Email (`192.168.90.252`)
+
+<img width="500" height="345" alt="image" src="https://github.com/user-attachments/assets/5aeba182-1eca-49d7-977e-c1fc80808bf1" />
+<img width="286" height="409" alt="cas1" src="https://github.com/user-attachments/assets/6373f80e-a3ed-4ee5-bedf-4b0bbc9aacb4" />
+<img width="500" height="328" alt="ca2" src="https://github.com/user-attachments/assets/70affd4f-05e2-4967-b955-38ad5642558e" />
+<img width="500" height="326" alt="ca3" src="https://github.com/user-attachments/assets/deee3d92-d972-44f0-9066-94b6c4b33135" />
+
+
+#### Server tftp (`192.168.90.254`)
+
+<img width="500" height="254" alt="image" src="https://github.com/user-attachments/assets/ecdd8a2e-d665-47fc-9608-292f508c1d16" />
 
 
 
