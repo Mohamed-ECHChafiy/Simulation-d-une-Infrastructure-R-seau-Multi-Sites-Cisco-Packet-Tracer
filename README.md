@@ -253,7 +253,6 @@ Les sites sont interconnectés via des **liaisons série WAN (PPP/CHAP)** :
 
 <img width="503" height="252" alt="image" src="https://github.com/user-attachments/assets/119cdf4e-226f-47a7-b2b7-ae9b37fd5246" />
 
-
 #### HTTP 
 
 <img width="500" height="653" alt="rabat10" src="https://github.com/user-attachments/assets/65e3bd15-4162-4dfa-9592-51f7e9a3eca7" />
@@ -276,9 +275,7 @@ Les sites sont interconnectés via des **liaisons série WAN (PPP/CHAP)** :
 <img width="293" height="423" alt="image" src="https://github.com/user-attachments/assets/c760682d-0226-470c-8b73-b5e9db71766d" />
 <img width="500" height="246" alt="image" src="https://github.com/user-attachments/assets/978d9b5e-0a94-4034-890a-160d7c9b187a" />
 
-
 #### Server Email (`192.168.5.252`)
-
 
 <img width="500" height="346" alt="image" src="https://github.com/user-attachments/assets/17e80b46-e25d-487b-9484-a4b9c61f17b9" />
 <img width="285" height="363" alt="1 aga" src="https://github.com/user-attachments/assets/5222d534-6cb6-44bc-ae23-02958008babb" />
@@ -289,25 +286,27 @@ Les sites sont interconnectés via des **liaisons série WAN (PPP/CHAP)** :
 
 <img width="289" height="246" alt="image" src="https://github.com/user-attachments/assets/641df81f-7a46-45bf-9f0f-402928f984d0" />
 
+#### HTTP 
+
+<img width="500" height="551" alt="agadir1" src="https://github.com/user-attachments/assets/2770d8af-bab2-4121-842e-93dc243694c5" />
+<img width="500" height="168" alt="aga22" src="https://github.com/user-attachments/assets/5a9eb52c-f226-4660-83a8-fdbbd9f366ae" />
+<img width="500" height="156" alt="agadir2" src="https://github.com/user-attachments/assets/598123cc-bcf1-4e62-bc24-9fd55bda379c" />
+
 ---
 
 ### Lan Casablanca
 
 <img width="600" height="1233" alt="casa" src="https://github.com/user-attachments/assets/03dd2372-249c-4422-aeda-772495ce109c" />
 
-
 #### PC & IP Phone (admin)
-
 
 <img width="373" height="284" alt="image" src="https://github.com/user-attachments/assets/bdc8cb6f-7df6-4b9e-a864-a4932b6e42cf" />
 <img width="588" height="207" alt="image" src="https://github.com/user-attachments/assets/545de712-9693-4c3d-bb26-1d50ab548191" />
-
 
 #### DHCP (mls)
 
 <img width="300" height="425" alt="image" src="https://github.com/user-attachments/assets/f4b5f483-8ab9-4a47-a1b1-7b33b9b64356" />
 <img width="500" height="248" alt="image" src="https://github.com/user-attachments/assets/67c7fc3b-aa76-469c-b91c-8dbb4bf2614d" />
-
 
 #### Server Email (`192.168.90.252`)
 
@@ -316,16 +315,15 @@ Les sites sont interconnectés via des **liaisons série WAN (PPP/CHAP)** :
 <img width="500" height="328" alt="ca2" src="https://github.com/user-attachments/assets/70affd4f-05e2-4967-b955-38ad5642558e" />
 <img width="500" height="326" alt="ca3" src="https://github.com/user-attachments/assets/deee3d92-d972-44f0-9066-94b6c4b33135" />
 
-
 #### Server tftp (`192.168.90.254`)
 
 <img width="500" height="254" alt="image" src="https://github.com/user-attachments/assets/ecdd8a2e-d665-47fc-9608-292f508c1d16" />
 
+#### HTTP
 
-
-
-
-
+<img width="500" height="550" alt="casa1" src="https://github.com/user-attachments/assets/16de3945-2b69-4e56-913f-2d40e6c800a9" />
+<img width="500" height="157" alt="casa4" src="https://github.com/user-attachments/assets/da869733-2fe2-4068-8445-0a500cf48892" />
+<img width="500" height="151" alt="casa2" src="https://github.com/user-attachments/assets/33c7982f-c993-447e-aa44-6b3d1bf32c05" />
 
 ## 
 ---
