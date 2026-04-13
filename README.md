@@ -201,7 +201,7 @@ Les sites sont interconnectés via des **liaisons série WAN (PPP/CHAP)** :
 <img width="500" height="225" alt="image" src="https://github.com/user-attachments/assets/7c270200-d0ab-4d33-9dc5-1ebc8c363dd2" />
 
 
-#### Server DNS 4.0.0.254
+#### Server DNS (`4.0.0.0.254`)
 
 <img width="500" height="475" alt="image" src="https://github.com/user-attachments/assets/9951550a-ef6c-4a0e-bde8-1ffcec25650c" />
 
@@ -222,6 +222,8 @@ Les sites sont interconnectés via des **liaisons série WAN (PPP/CHAP)** :
   
 <img width="325" height="359" alt="2" src="https://github.com/user-attachments/assets/3b43917e-4178-46bc-aaaf-43e34ac8cb3f" />
 <img width="500" height="358" alt="1" src="https://github.com/user-attachments/assets/06247531-a49e-407c-a114-e88ca8dae131" />
+
+---
 
 ### Lan Rabat 
 
@@ -260,15 +262,30 @@ Les sites sont interconnectés via des **liaisons série WAN (PPP/CHAP)** :
 <img width="500" height="196" alt="rabat13" src="https://github.com/user-attachments/assets/fd428898-e02f-4067-89d8-2656240fa747" />
 <img width="500" height="173" alt="rabat12" src="https://github.com/user-attachments/assets/6faa41bc-13e8-47cb-892a-a36209ba3b38" />
 
+---
+
+### Lan Agadir
+
+<img width="600" height="1203" alt="aga1" src="https://github.com/user-attachments/assets/68ebf2a0-b0b2-4b11-bc1b-f0192b70b111" />
+
+#### PC & IP Phone (admin)
+
+<img width="310" height="284" alt="image" src="https://github.com/user-attachments/assets/7e7475e3-a4dd-47ea-b9e6-221c94a5ee76" />
+<img width="500" height="214" alt="image" src="https://github.com/user-attachments/assets/d2e5df3e-e972-4f64-9a89-80d3fcc24cc7" />
+
+#### DHCP 
+
+<img width="293" height="423" alt="image" src="https://github.com/user-attachments/assets/c760682d-0226-470c-8b73-b5e9db71766d" />
+<img width="500" height="246" alt="image" src="https://github.com/user-attachments/assets/978d9b5e-0a94-4034-890a-160d7c9b187a" />
 
 
+#### Server Email (`192.168.5.252`)
 
 
-
-
-
-
-
+<img width="500" height="346" alt="image" src="https://github.com/user-attachments/assets/17e80b46-e25d-487b-9484-a4b9c61f17b9" />
+<img width="285" height="363" alt="1 aga" src="https://github.com/user-attachments/assets/5222d534-6cb6-44bc-ae23-02958008babb" />
+<img width="701" height="328" alt="ag2" src="https://github.com/user-attachments/assets/d4d752f5-9c13-4da2-84c8-cf1b9e062df9" />
+<img width="705" height="327" alt="ag3" src="https://github.com/user-attachments/assets/ced1731a-bad9-4fae-9767-9b1eb246eea9" />
 
 
 
