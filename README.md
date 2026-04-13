@@ -178,7 +178,7 @@ Les sites sont interconnectés via des **liaisons série WAN (PPP/CHAP)** :
 - Admin Locaul : Chaque administrateur réseau local (LAN) est autorisé à accéder uniquement aux équipements de son propre site (ex: Rabat/Agadir/Casablanca).
 
 ####  Restriction du Protocole ICMP (Ping)
-- Isolation des VLANs : Le trafic "Ping" (Echo Request) est totalement interdit entre les différents VLANs au sein de chaque site local pour empêcher les utilisateurs non autorisés de tester la connectivité des         autres segments.
+- Isolation des VLANs : Le trafic "Ping" (Echo Request) est totalement interdit entre les différents VLANs au sein de chaque site local pour empêcher les utilisateurs       non autorisés de tester la connectivité des autres segments.
 - Admin Central : Autorisé à effectuer des tests de connectivité (Ping) vers n'importe quel équipement ou hôte sur l'ensemble du réseau WAN/LAN.
 - Admin Local : Autorisé à utiliser le Ping uniquement pour diagnostiquer les équipements au sein de son propre site (LAN).
 
@@ -196,7 +196,7 @@ Les sites sont interconnectés via des **liaisons série WAN (PPP/CHAP)** :
 
 <img width="600" height="609" alt="lan central" src="https://github.com/user-attachments/assets/8548c67f-8a80-4402-a062-cd25ccfdbddf" />
 
-#### PC & IP Phone
+#### PC & IP Phone 
 <img width="352" height="285" alt="image" src="https://github.com/user-attachments/assets/cc28d51f-2133-4e66-9b8c-866deb7e798d" />
 <img width="500" height="225" alt="image" src="https://github.com/user-attachments/assets/7c270200-d0ab-4d33-9dc5-1ebc8c363dd2" />
 
@@ -213,16 +213,25 @@ Les sites sont interconnectés via des **liaisons série WAN (PPP/CHAP)** :
 - TFTP
 <img width="581" height="217" alt="image" src="https://github.com/user-attachments/assets/98e6a001-c8fb-43da-aa4a-9eced8ad61d2" />
 
-- HTTP
+#### HTTP
 <img width="500" height="688" alt="central11" src="https://github.com/user-attachments/assets/92030b89-5f7d-405a-92f1-c50579a0db2a" />
 <img width="500" height="692" alt="central10" src="https://github.com/user-attachments/assets/3c74ab7e-54e4-4892-afa6-ae7fc7ec0d41" />
 <img width="500" height="689" alt="central13" src="https://github.com/user-attachments/assets/18895185-de45-46ca-9ef1-e736887ad5c7" />
 
-- EMAI
+#### EMAI
   
-  <img width="325" height="359" alt="2" src="https://github.com/user-attachments/assets/3b43917e-4178-46bc-aaaf-43e34ac8cb3f" />
-  <img width="500" height="358" alt="1" src="https://github.com/user-attachments/assets/06247531-a49e-407c-a114-e88ca8dae131" />
+<img width="325" height="359" alt="2" src="https://github.com/user-attachments/assets/3b43917e-4178-46bc-aaaf-43e34ac8cb3f" />
+<img width="500" height="358" alt="1" src="https://github.com/user-attachments/assets/06247531-a49e-407c-a114-e88ca8dae131" />
 
+### Lan Rabat 
+
+<img width="600" height="1035" alt="rabat1" src="https://github.com/user-attachments/assets/eaba3bf7-1d81-4e6a-bbc0-9d7c62e28e18" />
+
+
+#### PC & IP Phone (admin)
+
+<img width="371" height="287" alt="image" src="https://github.com/user-attachments/assets/5c1dd6b3-25ec-4d28-aff2-e2999e21970a" />
+<img width="500" height="187" alt="image" src="https://github.com/user-attachments/assets/fdca6a8b-6f26-4ee3-8311-c654aea213d7" />
 
 
 ## 
