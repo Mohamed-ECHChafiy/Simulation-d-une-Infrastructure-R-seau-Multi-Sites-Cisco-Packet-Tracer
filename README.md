@@ -218,7 +218,7 @@ Les sites sont interconnectés via des **liaisons série WAN (PPP/CHAP)** :
 <img width="500" height="692" alt="central10" src="https://github.com/user-attachments/assets/3c74ab7e-54e4-4892-afa6-ae7fc7ec0d41" />
 <img width="500" height="689" alt="central13" src="https://github.com/user-attachments/assets/18895185-de45-46ca-9ef1-e736887ad5c7" />
 
-#### EMAI
+#### EMAL
   
 <img width="325" height="359" alt="2" src="https://github.com/user-attachments/assets/3b43917e-4178-46bc-aaaf-43e34ac8cb3f" />
 <img width="500" height="358" alt="1" src="https://github.com/user-attachments/assets/06247531-a49e-407c-a114-e88ca8dae131" />
