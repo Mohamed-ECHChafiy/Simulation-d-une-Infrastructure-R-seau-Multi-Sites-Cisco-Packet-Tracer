@@ -196,6 +196,10 @@ Les sites sont interconnectés via des **liaisons série WAN (PPP/CHAP)** :
 
 <img width="600" height="609" alt="lan central" src="https://github.com/user-attachments/assets/8548c67f-8a80-4402-a062-cd25ccfdbddf" />
 
+#### PC & IP Phone
+<img width="352" height="285" alt="image" src="https://github.com/user-attachments/assets/cc28d51f-2133-4e66-9b8c-866deb7e798d" />
+<img width="500" height="225" alt="image" src="https://github.com/user-attachments/assets/7c270200-d0ab-4d33-9dc5-1ebc8c363dd2" />
+
 
 #### Server DNS 4.0.0.254
 
@@ -209,7 +213,15 @@ Les sites sont interconnectés via des **liaisons série WAN (PPP/CHAP)** :
 - TFTP
 <img width="581" height="217" alt="image" src="https://github.com/user-attachments/assets/98e6a001-c8fb-43da-aa4a-9eced8ad61d2" />
 
+- HTTP
+<img width="500" height="688" alt="central11" src="https://github.com/user-attachments/assets/92030b89-5f7d-405a-92f1-c50579a0db2a" />
+<img width="500" height="692" alt="central10" src="https://github.com/user-attachments/assets/3c74ab7e-54e4-4892-afa6-ae7fc7ec0d41" />
+<img width="500" height="689" alt="central13" src="https://github.com/user-attachments/assets/18895185-de45-46ca-9ef1-e736887ad5c7" />
 
+- EMAI
+  
+  <img width="325" height="359" alt="2" src="https://github.com/user-attachments/assets/3b43917e-4178-46bc-aaaf-43e34ac8cb3f" />
+  <img width="500" height="358" alt="1" src="https://github.com/user-attachments/assets/06247531-a49e-407c-a114-e88ca8dae131" />
 
 
 
