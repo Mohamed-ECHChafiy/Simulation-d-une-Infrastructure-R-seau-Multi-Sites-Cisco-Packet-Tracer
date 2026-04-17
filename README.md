@@ -197,7 +197,7 @@ Les sites sont interconnectés via des **liaisons série WAN (PPP/CHAP)** :
 
 #### PC & IP Phone 
 <img width="352" height="285" alt="image" src="https://github.com/user-attachments/assets/cc28d51f-2133-4e66-9b8c-866deb7e798d" />
-<img width="500" height="225" alt="image" src="https://github.com/user-attachments/assets/7c270200-d0ab-4d33-9dc5-1ebc8c363dd2" />
+<img width="350" height="225" alt="image" src="https://github.com/user-attachments/assets/7c270200-d0ab-4d33-9dc5-1ebc8c363dd2" />
 
 
 #### Server DNS (`4.0.0.0.254`)
